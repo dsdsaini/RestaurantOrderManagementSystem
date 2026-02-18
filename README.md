@@ -23,7 +23,8 @@ Success Output (200)
   "active": true
 }
 
-❌ Error Cases
+
+Error Cases
 Branch null
 {
   "timestamp": "2026-02-18T10:00:00",
